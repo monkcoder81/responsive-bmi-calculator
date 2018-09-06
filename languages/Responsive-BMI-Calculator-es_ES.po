@@ -132,7 +132,7 @@ msgstr "Su índice de masa corporal es"
 
 #: templates/results.php:40
 msgid "You are underweight"
-msgstr "Usted tiene sobrepeso"
+msgstr "Usted tiene un peso insuficiente."
 
 #: templates/results.php:40
 msgid "Try to stay above"
