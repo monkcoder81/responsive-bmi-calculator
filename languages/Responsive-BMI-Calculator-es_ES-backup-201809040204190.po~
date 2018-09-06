@@ -1,0 +1,222 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive BMI Calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-03 02:46+0000\n"
+"PO-Revision-Date: 2018-09-04 02:00+0000\n"
+"Last-Translator: Javier287 <info@guelbetech.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin.php:4
+msgid "BMI Calculator"
+msgstr "Calculadora IMC"
+
+#. Name of the plugin
+#: admin.php:30
+msgid "Responsive BMI Calculator"
+msgstr "Calculadora IMC Responsive"
+
+#: admin.php:31
+msgid "Color Settings"
+msgstr "Ajustes de Color"
+
+#: admin.php:35
+msgid "Set the background color."
+msgstr "Escoja el color de fondo."
+
+#: admin.php:37
+msgid "Set the border color."
+msgstr "Escoja el color del borde."
+
+#: admin.php:39
+msgid "Set the text color."
+msgstr "Escoja el color del texto."
+
+#: admin.php:41
+msgid "Set up the buttom colors:"
+msgstr "Escoja los colores del bot&oacute;n"
+
+#: admin.php:42
+msgid "Gradient 1"
+msgstr "Gradiente 1"
+
+#: admin.php:43
+msgid "Gradient 2:"
+msgstr "Gradiente 2:"
+
+#: admin.php:44
+msgid "Text color:"
+msgstr "Color del texto:"
+
+#: admin.php:45
+msgid "Border color"
+msgstr "Color del borde"
+
+#: admin.php:48
+msgid "Restablish original colors"
+msgstr "Restablecer colores originales"
+
+#: admin.php:49
+msgid "Press to restablish the original colors"
+msgstr "Pulse para restablecer los colores originales"
+
+#: admin.php:49
+msgid "Restablish colors"
+msgstr "Restablecer colores"
+
+#: admin.php:52
+msgid "Show the doctor image at the results page."
+msgstr "MOstrar la imagen del doctor en la p&aacute;gina de resultados"
+
+#: admin.php:55
+msgid "Show"
+msgstr "Mostrar"
+
+#: admin.php:56
+msgid "Not Show"
+msgstr "No Mostrar"
+
+#: admin.php:67
+msgid "Original colors restablished. Do not forget to save the changes"
+msgstr "Colores originales restablecidos. no olvide guardar los cambios"
+
+#: templates/main.php:52
+msgid "Know your BMI"
+msgstr "Conozca su IMC"
+
+#: templates/main.php:55
+msgid "Select your height"
+msgstr "Seleccione su estatura"
+
+#: templates/main.php:142
+msgid "centimeters"
+msgstr "centímetros"
+
+#: templates/main.php:143
+msgid "feet and inches"
+msgstr "pies y pulgadas"
+
+#: templates/main.php:146
+msgid "Introduce your weight"
+msgstr "Introduzca su peso"
+
+#: templates/main.php:148
+msgid "kilograms"
+msgstr "kilogramos"
+
+#: templates/main.php:149
+msgid "pounds"
+msgstr "libras"
+
+#: templates/main.php:153
+msgid "Calculate"
+msgstr "Calcular"
+
+#: templates/results.php:12
+msgid "Your body mass index is"
+msgstr "Su índice de masa corporal es"
+
+#: templates/results.php:34
+msgid "You are <b>underweight</b>"
+msgstr "Usted tiene un <u>peso insuficiente</u>"
+
+#: templates/results.php:34
+msgid "Try to stay above"
+msgstr "Procure estar por encima"
+
+#: templates/results.php:34
+msgid "to have a healthier weight."
+msgstr "para tener un peso m&aacute;s saludable"
+
+#: templates/results.php:35
+msgid ""
+"You are in the <b>optimal</b> weight range according to the World Health "
+"Organization. Try to remain between"
+msgstr ""
+
+#: templates/results.php:35
+msgid "of body weight."
+msgstr "de peso corporal."
+
+#: templates/results.php:36
+msgid ""
+"You are <b>overweight</b> (obesity grade 1) according to the data of the "
+"world health organization. You have a moderate risk of suffering from "
+"diseases associated with obesity.<p>Try to stay below"
+msgstr ""
+"Usted tiene <u>sobrepeso</u> (obesidad grado 1) seg&uacute;n los datos de la "
+"Organizaci&oacute;n Mundial de la Salud. Tiene un riesgo moderado de sufrir "
+"enfermedades asociadas a la obesidad</p> Procure estar por debajo de  "
+
+#: templates/results.php:36
+msgid "to have a healthy weight.</p>"
+msgstr "para tener un peso m&aacute;s saludable"
+
+#: templates/results.php:37
+msgid ""
+"You have <b> obesity grade 2 </b> according to the data of the world health "
+"organization. You have a considerable risk of suffering from diseases "
+"associated with obesity.<p> Try to stay below,"
+msgstr ""
+
+#: templates/results.php:38
+msgid ""
+"You have <b>obesity grade 3</b> according to the data of the World Health "
+"Organization. You have a high risk of suffering from diseases associated "
+"with obesity.<p> Try to stay below "
+msgstr ""
+
+#: templates/results.php:38
+msgid ""
+" of body weight to reduce the risk of suffering associated diseases. The "
+"healthiest thing would be if you stay below"
+msgstr ""
+"de peso corporal para reducir el riesgo de sufrir enfermedades asociadas. Lo "
+"m&aacute;s sano sería que estuviese por debajo de "
+
+#: templates/results.php:39
+msgid ""
+"You have <b>obesity grade 4</b> according to the data of the World Health "
+"Organization. You have a very high risk of suffering diseases associated "
+"with obesity.<p> Try to stay below"
+msgstr ""
+
+#: templates/results.php:39
+msgid ""
+"of body weight to reduce the risk of suffering associated diseases. The "
+"healthiest thing would be if you stay below"
+msgstr ""
+"de peso corporal para reducir el riesgo de sufrir enfermedades asociadas. Lo "
+"m&aacute;s sano sería que estuviese por debajo de"
+
+#. Description of the plugin
+msgid ""
+"A BMI (Body Weight Index) calculator free and easy to use. It is responsive "
+"and adjusts to any size of screen. The user receives his BMI and medical "
+"advices according to the World Health Organization. You can insert it using "
+"a widget or a shortcode. You can customize its appearence at the settings "
+"page."
+msgstr ""
+"Una calculadora de IMC (Indice de masa Corporal) gratuíta y fácil de usar. "
+"Es responsive y se ajusta a todas las anchuras de pantalla. el usuario "
+"recibe su IMC y consejos médicos conforme a la Organización Mundial de la "
+"Salud. Puede insertarlo usando un widget o un shortcode. Puede personaliza "
+"su apariencia en la página de ajustes. "
+
+#. URI of the plugin
+msgid "https://github.com/monkcoder81/Responsive-BMI-calculator"
+msgstr "https://github.com/monkcoder81/Responsive-BMI-calculator"
+
+#. Author of the plugin
+msgid "Javier Guelbenzu Solsona"
+msgstr "Javier Guelbenzu Solsona"
+
+#. URI of the plugin
+msgid "http://www.guelbetech.com"
+msgstr "http://www.guelbetech.com"

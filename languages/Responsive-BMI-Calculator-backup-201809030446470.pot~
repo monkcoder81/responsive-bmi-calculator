@@ -1,0 +1,129 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive BMI Calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-02 15:50+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: admin.php:4
+msgid "BMI Calculator"
+msgstr ""
+
+#. Name of the plugin
+#: admin.php:30
+msgid "Responsive BMI Calculator"
+msgstr ""
+
+#: admin.php:31
+msgid "Color Settings"
+msgstr ""
+
+#: admin.php:35
+msgid "Set the background color."
+msgstr ""
+
+#: admin.php:37
+msgid "Set the border color."
+msgstr ""
+
+#: admin.php:39
+msgid "Set the text color."
+msgstr ""
+
+#: admin.php:41
+msgid "Set up the buttom colors:"
+msgstr ""
+
+#: admin.php:42
+msgid "Gradient 1"
+msgstr ""
+
+#: admin.php:43
+msgid "Gradient 2:"
+msgstr ""
+
+#: admin.php:44
+msgid "Text color:"
+msgstr ""
+
+#: admin.php:45
+msgid "Border color"
+msgstr ""
+
+#: admin.php:48
+msgid "Restablish original colors"
+msgstr ""
+
+#: admin.php:49
+msgid "Press to restablish the original colors"
+msgstr ""
+
+#: admin.php:49
+msgid "Restablish colors"
+msgstr ""
+
+#: admin.php:52
+msgid "Show the doctor image at the results page."
+msgstr ""
+
+#: admin.php:55
+msgid "Show"
+msgstr ""
+
+#: admin.php:56
+msgid "Not Show"
+msgstr ""
+
+#: admin.php:67
+msgid "Original colors restablished. Do not forget to save the changes"
+msgstr ""
+
+#: templates/main.php:53
+msgid "Know your BMI"
+msgstr ""
+
+#: templates/main.php:143
+msgid "centimeters"
+msgstr ""
+
+#: templates/main.php:144
+msgid "feet and inches"
+msgstr ""
+
+#: templates/main.php:149
+msgid "kilograms"
+msgstr ""
+
+#: templates/main.php:150
+msgid "pounds"
+msgstr ""
+
+#: templates/main.php:154
+msgid "Calculate"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A BMI (Body Weight Index) calculator free and easy to use. It is responsive "
+"and adjusts to any size of screen. The user receives his BMI and medical "
+"advices according to the World Health Organization. You can insert it using "
+"a widget and a shortcode. You can customize its appearence at the settings "
+"page."
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.guelbetech.com"
+msgstr ""
+
+#. Author of the plugin
+msgid "Javier Guelbenzu Solsona"
+msgstr ""

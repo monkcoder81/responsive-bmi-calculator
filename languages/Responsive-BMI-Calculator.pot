@@ -1,0 +1,219 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive BMI Calculator\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-06 01:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: activacion.php:12
+msgid "BMI Results"
+msgstr ""
+
+#: admin.php:5 widget.php:22
+msgid "BMI Calculator"
+msgstr ""
+
+#. Name of the plugin
+#: admin.php:31
+msgid "Responsive BMI Calculator"
+msgstr ""
+
+#: admin.php:32
+msgid "Color Settings"
+msgstr ""
+
+#: admin.php:36
+msgid "Set the background color."
+msgstr ""
+
+#: admin.php:38
+msgid "Set the border color."
+msgstr ""
+
+#: admin.php:40
+msgid "Set the text color."
+msgstr ""
+
+#: admin.php:42
+msgid "Set up the button colors:"
+msgstr ""
+
+#: admin.php:43
+msgid "Gradient 1"
+msgstr ""
+
+#: admin.php:44
+msgid "Gradient 2:"
+msgstr ""
+
+#: admin.php:45
+msgid "Text color:"
+msgstr ""
+
+#: admin.php:46
+msgid "Border color"
+msgstr ""
+
+#: admin.php:49
+msgid "Restablish original colors"
+msgstr ""
+
+#: admin.php:50
+msgid "Press to restablish the original colors"
+msgstr ""
+
+#: admin.php:50
+msgid "Restablish colors"
+msgstr ""
+
+#: admin.php:53
+msgid "Show the doctor image at the results page."
+msgstr ""
+
+#: admin.php:56
+msgid "Show"
+msgstr ""
+
+#: admin.php:57
+msgid "Not Show"
+msgstr ""
+
+#: admin.php:68
+msgid "Original colors restablished. Do not forget to save the changes"
+msgstr ""
+
+#: widget.php:23
+msgid "Displays a responsive BMI calculator"
+msgstr ""
+
+#: templates/main.php:55
+msgid "Know your BMI"
+msgstr ""
+
+#: templates/main.php:58
+msgid "Select your height"
+msgstr ""
+
+#: templates/main.php:145
+msgid "centimeters"
+msgstr ""
+
+#: templates/main.php:146
+msgid "feet and inches"
+msgstr ""
+
+#: templates/main.php:149
+msgid "Introduce your weight"
+msgstr ""
+
+#: templates/main.php:151
+msgid "kilograms"
+msgstr ""
+
+#: templates/main.php:152 templates/results.php:36
+msgid "pounds"
+msgstr ""
+
+#: templates/main.php:156
+msgid "Calculate"
+msgstr ""
+
+#: templates/results.php:13
+msgid "Your body mass index is"
+msgstr ""
+
+#: templates/results.php:40
+msgid "You are underweight"
+msgstr ""
+
+#: templates/results.php:40
+msgid "Try to stay above"
+msgstr ""
+
+#: templates/results.php:40
+msgid "to have a healthier weight."
+msgstr ""
+
+#: templates/results.php:41
+msgid ""
+"You are in the optimal weight range according to the World Health "
+"Organization. Try to remain between"
+msgstr ""
+
+#: templates/results.php:41
+msgid "of body weight."
+msgstr ""
+
+#: templates/results.php:42
+msgid ""
+"You are overweight (obesity grade 1) according to the data of the World "
+"Health Organization. You have a moderate risk of suffering from diseases "
+"associated with obesity.<p>Try to stay below"
+msgstr ""
+
+#: templates/results.php:42
+msgid "to have a healthy weight.</p>"
+msgstr ""
+
+#: templates/results.php:43
+msgid ""
+"You are overweight (obesity grade 2) according to the data of the World "
+"Health Organization. You have a considerable risk of suffering from diseases "
+"associated with obesity.<p> Try to stay below,"
+msgstr ""
+
+#: templates/results.php:43 templates/results.php:45
+msgid ""
+"of body weight to reduce the risk of suffering associated diseases. The "
+"healthiest thing would be if you stay below"
+msgstr ""
+
+#: templates/results.php:44
+msgid ""
+"You are overweight (obesity grade 3) according to the data of the World "
+"Health Organization. You have a high risk of suffering from diseases "
+"associated with obesity.<p> Try to stay below "
+msgstr ""
+
+#: templates/results.php:44
+msgid ""
+" of body weight to reduce the risk of suffering associated diseases. The "
+"healthiest thing would be if you stay below"
+msgstr ""
+
+#: templates/results.php:45
+msgid ""
+"You are overweight (obesity grade 4) according to the data of the World "
+"Health Organization. You have a very high risk of suffering diseases "
+"associated with obesity.<p> Try to stay below"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A BMI (Body Mass Index) calculator free and easy to use. It is responsive "
+"and adjusts to any size of screen. The user receives his BMI and medical "
+"advices according to the World Health Organization. You can insert it using "
+"a widget or a shortcode. You can customize its appearence at the settings "
+"page."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://github.com/monkcoder81/Responsive-BMI-calculator"
+msgstr ""
+
+#. Author of the plugin
+msgid "Javier Guelbenzu Solsona"
+msgstr ""
+
+#. URI of the plugin
+msgid "http://www.guelbetech.com"
+msgstr ""
